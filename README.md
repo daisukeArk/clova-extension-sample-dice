@@ -39,7 +39,7 @@ The REST API server for the "Dice Drawer" Clova extension is designed to return 
         "accessToken": "3d0e7bab-2c1a-44d4-be20-c84910b78e2c"
       },
       "device": {
-        "deviceId": "3657ade7-e219-4a76-84c4-b701bae8350c"
+        "deviceId": "da6db6c26dcbe1a077eb2c890031ce2b1980asf2d30e00ee58804daf0ee89eff"
       },
       "application": {
         "applicationId": "com.example.dice"
