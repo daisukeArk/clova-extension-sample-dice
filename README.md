@@ -27,7 +27,7 @@ The REST API server for the "Dice Drawer" Clova extension is designed to return 
   "session": {
     "sessionId": "55ca6ee4-72dd-4694-b30f-4b49e238634f",
     "user": {
-      "userId": "f5gYL1uYQyuXoYNvV6-BCw",
+      "userId": "U1bd47e4c7c68ca8a8ead15517d055ad1",
       "accessToken": "3d0e7bab-2c1a-44d4-be20-c84910b78e2c"
     },
     "new": true
@@ -35,7 +35,7 @@ The REST API server for the "Dice Drawer" Clova extension is designed to return 
   "context": {
     "System": {
       "user": {
-        "userId": "f5gYL1uYQyuXoYNvV6-BCw",
+        "userId": "U1bd47e4c7c68ca8a8ead15517d055ad1",
         "accessToken": "3d0e7bab-2c1a-44d4-be20-c84910b78e2c"
       },
       "device": {
